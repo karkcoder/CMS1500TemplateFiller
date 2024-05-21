@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS1500TemplateFiller", "CMS1500TemplateFiller.csproj", "{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F411D7-D344-4532-827F-C9B8CA042298}
+	EndGlobalSection
+EndGlobal

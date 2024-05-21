@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firestorm\\Documents\\source\\CMS1500TemplateFiller\\CMS1500TemplateFiller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}|CMS1500TemplateFiller.csproj|c:\\users\\firestorm\\documents\\source\\cms1500templatefiller\\cms1500templatefiller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}|CMS1500TemplateFiller.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}|CMS1500TemplateFiller.csproj|c:\\users\\firestorm\\documents\\source\\cms1500templatefiller\\cms1500templatefiller\\customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43670AE-1094-46D4-9C9B-141A1BC8BBE9}|CMS1500TemplateFiller.csproj|solutionrelative:customfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomFontResolver.cs",
+              "DocumentMoniker": "C:\\Users\\firestorm\\Documents\\source\\CMS1500TemplateFiller\\CMS1500TemplateFiller\\CustomFontResolver.cs",
+              "RelativeDocumentMoniker": "CustomFontResolver.cs",
+              "ToolTip": "C:\\Users\\firestorm\\Documents\\source\\CMS1500TemplateFiller\\CMS1500TemplateFiller\\CustomFontResolver.cs",
+              "RelativeToolTip": "CustomFontResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:06:45.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\firestorm\\Documents\\source\\CMS1500TemplateFiller\\CMS1500TemplateFiller\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\firestorm\\Documents\\source\\CMS1500TemplateFiller\\CMS1500TemplateFiller\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:37:02.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
